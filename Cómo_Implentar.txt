@@ -1,0 +1,4 @@
+Para utilizar el programa basta con sustituir el Moogle.cs en la carpeta MoogleEngine y agregar en la carpeta Content los documentos en los que se quiere buscar. 
+Importante: La primera consulta puede durar a partir de 2 minutos dependiendo del tamaño de la base de datos.
+
+Abraham Romero Imbert C111
